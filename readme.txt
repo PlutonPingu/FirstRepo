@@ -1,1 +1,0 @@
-Mitt första Git-projekt.
